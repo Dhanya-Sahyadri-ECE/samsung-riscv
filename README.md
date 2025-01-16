@@ -13,13 +13,6 @@ LinkedIn: [DHANYA ](https://www.linkedin.com/in/dhanya-shetty-66462626a?utm_sour
 <details>
 <summary>TASK1:Development of C Based LAB</summary>
   https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/ce8bf109ff0fc8f74c7ade2352a3bca843dedb95/TASK1
-  src="https://github.com/user-attachments/assets/987c79c7-2625-4d94-bfee-caa7b83a0f86" alt="Task Icon"/>
-  <img
-src="https://github.com/user-attachments/assets/7c267db8-2335-45b8-8d9b-0cce32154878" alt="Task Icon"/>
-<img
-src="https://github.com/user-attachments/assets/137dd367-5b26-44bf-90b4-cf600cbdb893" alt="Task Icon"/>
-<img
-src="https://github.com/user-attachments/assets/529e2e98-6f3b-435d-95ed-dc0c0c8dd226" alt="Task Icon"/>
 </details>
  <details>
 <summary>TASK2:Simulation with Spike</summary>
