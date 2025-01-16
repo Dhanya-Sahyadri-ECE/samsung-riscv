@@ -17,7 +17,7 @@ LinkedIn: [DHANYA ](https://www.linkedin.com/in/dhanya-shetty-66462626a?utm_sour
 
 <summary>TASK2:Simulation with Spike</summary>
 https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/ce8bf109ff0fc8f74c7ade2352a3bca843dedb95/TASK2
-<img 
+
 <summary>TASK3:32 bit segment of objdump</summary>
 https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/ce8bf109ff0fc8f74c7ade2352a3bca843dedb95/TASK3
-<img 
+
