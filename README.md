@@ -162,3 +162,8 @@ Machine Code:* 00810513
 |:-------------:|:--------:|:----------:|:--------:|:-----------:|  
 | 000000000000 | 00001 | 000      | 00000  | 1100111   |
 </details>
+<details>
+<summary>TASK4:Functional simulation of given RISC-V core verilog netlist and testbench
+</summary>
+  https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/ce8bf109ff0fc8f74c7ade2352a3bca843dedb95/TASK1
+</details>
