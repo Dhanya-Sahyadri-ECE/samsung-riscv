@@ -168,7 +168,7 @@ Machine Code:* 00810513
   https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/eab0f28d602727e66f8874a1eeaf930dba591185/TASK4
 </details>
 <details>
-<summary>TASK5:circuit diagram
+<summary>TASK5:circuit diagram, required components and the pin configuration.
 </summary>
 https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/396b43280793114de0d6fa8000dc1e475dd5bfd1/TASK5
 </details>
