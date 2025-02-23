@@ -167,10 +167,12 @@ Machine Code:* 00810513
 </summary>
   https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/eab0f28d602727e66f8874a1eeaf930dba591185/TASK4
 </details>
+<details>
 <summary>TASK5:circuit diagram
 </summary>
 https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/396b43280793114de0d6fa8000dc1e475dd5bfd1/TASK5
 </details>
+<details>
 <summary>TASK6:motion detection
 </summary>
  https://github.com/Dhanya-Sahyadri-ECE/samsung-riscv/tree/f985dd3e3861028907c007326ba3497c55b7e51a/TASK6
